@@ -20,6 +20,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <version>${project.version}</version>
  <scope>compile</scope>
  </dependency>
+ 
  </dependencies>
 <build>
  <plugins>
